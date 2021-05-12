@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projet-application-stress/static/css/main.dabb3989.chunk.css",
+    "main.js": "/projet-application-stress/static/js/main.60248aef.chunk.js",
+    "main.js.map": "/projet-application-stress/static/js/main.60248aef.chunk.js.map",
+    "runtime-main.js": "/projet-application-stress/static/js/runtime-main.6f2d713c.js",
+    "runtime-main.js.map": "/projet-application-stress/static/js/runtime-main.6f2d713c.js.map",
+    "static/css/2.800be05e.chunk.css": "/projet-application-stress/static/css/2.800be05e.chunk.css",
+    "static/js/2.9a21aa36.chunk.js": "/projet-application-stress/static/js/2.9a21aa36.chunk.js",
+    "static/js/2.9a21aa36.chunk.js.map": "/projet-application-stress/static/js/2.9a21aa36.chunk.js.map",
+    "static/js/3.fe034c4e.chunk.js": "/projet-application-stress/static/js/3.fe034c4e.chunk.js",
+    "static/js/3.fe034c4e.chunk.js.map": "/projet-application-stress/static/js/3.fe034c4e.chunk.js.map",
+    "index.html": "/projet-application-stress/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/projet-application-stress/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.dabb3989.chunk.css.map": "/projet-application-stress/static/css/main.dabb3989.chunk.css.map",
+    "static/js/2.9a21aa36.chunk.js.LICENSE.txt": "/projet-application-stress/static/js/2.9a21aa36.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/projet-application-stress/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f2d713c.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.9a21aa36.chunk.js",
+    "static/css/main.dabb3989.chunk.css",
+    "static/js/main.60248aef.chunk.js"
+  ]
+}
